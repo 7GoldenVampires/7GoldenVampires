@@ -18,8 +18,8 @@
 
 🤝 I'm open to collaborating and contributing to innovative projects. Let's team up to build something awesome!
 
-Feel free to explore my GitHub repositories, and don't hesitate to reach out if you have an exciting project or idea in mind. Let's create something amazing together! 🚀
 <br />
+
 ---
 
 
