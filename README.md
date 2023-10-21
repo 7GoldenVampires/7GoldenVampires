@@ -3,6 +3,7 @@
 
 
 <h1 align="center">Hi 👋, 7GoldenVampires </h1>
+<br/>
 
 <h3 align="center">a passionate Web Developer from Germany </h3> 
 
@@ -20,7 +21,6 @@
 
 Feel free to explore my GitHub repositories, and don't hesitate to reach out if you have an exciting project or idea in mind. Let's create something amazing together! 🚀
 <br />
-
 ---
 
 
@@ -29,7 +29,6 @@ Feel free to explore my GitHub repositories, and don't hesitate to reach out if 
 <a href="https://instagram.com/thescriptninja" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/_vedaa____/?next=%2f&hl=en" height="30" width="40" /></a>
 <a href="https://x.com/nharjes" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/57/X_logo_2023_%28white%29.png/600px-X_logo_2023_%28white%29.png" alt="vedasree04" height="40" width="40" /></a></p>
 <br />
-
 ---
 
  
