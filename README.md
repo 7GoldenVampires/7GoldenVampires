@@ -22,8 +22,8 @@
 
 ---
 <img src="https://techstack-generator.vercel.app/react-icon.svg" alt="icon" width="40" height="40" />
-      <br>React
-        <img src="https://techstack-generator.vercel.app/python-icon.svg" alt="icon" width="40" height="40" />
+      React
+      
         
 
 
