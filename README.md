@@ -9,6 +9,7 @@
 
 <img align="right" alt="Coding" height="250" width="200" src="https://31.media.tumblr.com/4717a813263f471b0def42d70c835ad5/tumblr_mtw0ojDUCQ1ru39xmo1_500.gif">
 
+
 🍕 I'm not just an aspiring engineer; I'm also a pizza addict! When I'm not coding, you'll likely find me savoring a slice of my favorite pizza.
 
 ☕ I'm a coffee connoisseur. There's nothing like a good cup of coffee to fuel my coding sessions and keep me inspired.
@@ -18,16 +19,18 @@
 🤝 I'm open to collaborating and contributing to innovative projects. Let's team up to build something awesome!
 
 Feel free to explore my GitHub repositories, and don't hesitate to reach out if you have an exciting project or idea in mind. Let's create something amazing together! 🚀
+<br />
 
-
+---
 
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://x.com/nharjes" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/57/X_logo_2023_%28white%29.png/600px-X_logo_2023_%28white%29.png" alt="vedasree04" height="40" width="40" /></a>
 <a href="https://instagram.com/thescriptninja" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/_vedaa____/?next=%2f&hl=en" height="30" width="40" /></a>
-</p>
+<a href="https://x.com/nharjes" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/57/X_logo_2023_%28white%29.png/600px-X_logo_2023_%28white%29.png" alt="vedasree04" height="40" width="40" /></a></p>
+<br />
 
+---
 
  
 <h3 align="left">Languages and Tools I use:</h3>
@@ -45,7 +48,6 @@ Feel free to explore my GitHub repositories, and don't hesitate to reach out if 
 
 
 
------------------------------------------------------------------------
 
 
 
