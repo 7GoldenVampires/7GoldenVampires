@@ -46,7 +46,5 @@
 
 
 
-[![MasterHead](https://res.cloudinary.com/highereducation/images/f_auto,q_auto/v1662131572/ComputerScience.org/programmer-coding-on-laptop_858160b59/programmer-coding-on-laptop_858160b59.jpg)](https://github.com/ASHISH-28-02)
-<h1 align="center">Hello , I'm Ashish B</h1>
 
 
