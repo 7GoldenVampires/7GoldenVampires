@@ -22,9 +22,11 @@
 
 ---
 <img src="https://techstack-generator.vercel.app/react-icon.svg" alt="icon" width="40" height="40" />
-      React
-      
-        
+ React
+ <img src="https://techstack-generator.vercel.app/js-icon.svg" alt="icon" width="40" height="40" />
+ JavaScript     
+<img src="https://techstack-generator.vercel.app/ts-icon.svg" alt="icon" width="40" height="40" />
+<br>TypeScript      
 
 
 
@@ -106,7 +108,7 @@
  🅣🅔🅒🅗 🅢🅣🅐🅒🅚<br>
   </p>
 <p align="center">
-  <a href="https://azure.microsoft.com/en-in/" target="_blank"><img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="azure" width="40" height="40" /></a>
+ 
   <a href="https://www.gnu.org/software/bash/" target="_blank"><img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40" /></a>
   <a href="https://d3js.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/d3js/d3js-original.svg" alt="d3js" width="40" height="40" /></a>
   <a href="https://expressjs.com" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40" /></a>
