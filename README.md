@@ -1,21 +1,35 @@
 ![MasterHead](https://github.com/sd-indic/7goldenVampires/blob/main/New%20folder/j.gif?raw=true)
 [![An image of @sdindic's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/nharjes)](https://holopin.io/@nharjes)
-<h1 align="center">Hi 👋, 7GoldenVampires</h1>
-<h3 align="center">A junior Frontend Dev from Berlin </h3>
+<h1 align="center">Hi 👋, 7GoldenVampires B</h1>
+<h3 align="center">A junior Frontend Dev from Berlin B</h3>
+
+<img align="right" alt="Coding" height="250" width="200" src="https://31.media.tumblr.com/4717a813263f471b0def42d70c835ad5/tumblr_mtw0ojDUCQ1ru39xmo1_500.gif">
 
  ⚠ About Me :
  
 - 🌱 I’m an Aspiring Engineer.
 - I a pizza addict and coffee connoisseur
-- love watching the NBA 
+- love watching the NBA
+
+- - I'm a **Passionate Programmer** and a **Math Enthusiast** who can convey and grasp new ideas effectively.
+
+- Currently pursuing **B.Tech in Computer Science and Engineering.**
+
+- Open to **Collaborating and Contributing to Innovative Projects.**
+
+- Always on the lookout for **Innovation** and eager to face new **Challenges.**
+
+- Reach me via **ashish.b2005@gmail.com**
 
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 
-<a href="" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="sd-indic" height="30" width="40" /></a>
-<a href="" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sd-indic" height="30" width="40" /></a>
-<a href="" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="sd-indic" height="30" width="40" /></a>
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://x.com/nharjes" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/57/X_logo_2023_%28white%29.png/600px-X_logo_2023_%28white%29.png" alt="vedasree04" height="40" width="40" /></a>
+<a href="https://instagram.com/thescriptninja" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/_vedaa____/?next=%2f&hl=en" height="30" width="40" /></a>
+</p>
 
 
  
@@ -31,6 +45,21 @@
 <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> 
 <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> </a>
 <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a>
+
+
+
+-----------------------------------------------------------------------
+[![MasterHead](https://res.cloudinary.com/highereducation/images/f_auto,q_auto/v1662131572/ComputerScience.org/programmer-coding-on-laptop_858160b59/programmer-coding-on-laptop_858160b59.jpg)](https://github.com/ASHISH-28-02)
+
+
+
+
+
+
+
+
+
+  
 
 
 
