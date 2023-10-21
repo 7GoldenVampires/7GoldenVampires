@@ -1,7 +1,10 @@
 ![MasterHead](https://github.com/sd-indic/7goldenVampires/blob/main/New%20folder/j.gif?raw=true)
-[![An image of @sdindic's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/nharjes)](https://holopin.io/@nharjes)
+[![An image of @nilsharjes's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/nharjes)](https://holopin.io/@nharjes)
+
+<span style="color:blue">
 <h1 align="center">Hi 👋, 7GoldenVampires </h1>
 <h3 align="center">A junior Frontend Dev from Berlin </h3>
+</span>
 
 <img align="right" alt="Coding" height="250" width="200" src="https://31.media.tumblr.com/4717a813263f471b0def42d70c835ad5/tumblr_mtw0ojDUCQ1ru39xmo1_500.gif">
 
@@ -10,7 +13,6 @@
 - 🌱 I’m an Aspiring Engineer.
 - I a pizza addict and coffee connoisseur
 - love watching the NBA
-- 
 - Open to **Collaborating and Contributing to Innovative Projects.**
 - Always on the lookout for **Innovation** and eager to face new **Challenges.**
 - Reach me via **nilsdevelops@outlook.de**
