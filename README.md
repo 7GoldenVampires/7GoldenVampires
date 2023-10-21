@@ -1,7 +1,7 @@
 ![MasterHead](https://github.com/sd-indic/7goldenVampires/blob/main/New%20folder/j.gif?raw=true)
 [![An image of @sdindic's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/nharjes)](https://holopin.io/@nharjes)
-<h1 align="center">Hi 👋, 7GoldenVampires B</h1>
-<h3 align="center">A junior Frontend Dev from Berlin B</h3>
+<h1 align="center">Hi 👋, 7GoldenVampires </h1>
+<h3 align="center">A junior Frontend Dev from Berlin </h3>
 
 <img align="right" alt="Coding" height="250" width="200" src="https://31.media.tumblr.com/4717a813263f471b0def42d70c835ad5/tumblr_mtw0ojDUCQ1ru39xmo1_500.gif">
 
@@ -10,20 +10,13 @@
 - 🌱 I’m an Aspiring Engineer.
 - I a pizza addict and coffee connoisseur
 - love watching the NBA
-
-- - I'm a **Passionate Programmer** and a **Math Enthusiast** who can convey and grasp new ideas effectively.
-
-- Currently pursuing **B.Tech in Computer Science and Engineering.**
-
+- 
 - Open to **Collaborating and Contributing to Innovative Projects.**
-
 - Always on the lookout for **Innovation** and eager to face new **Challenges.**
+- Reach me via **nilsdevelops@outlook.de**
 
-- Reach me via **ashish.b2005@gmail.com**
 
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -49,17 +42,11 @@
 
 
 -----------------------------------------------------------------------
+
+
+
+
 [![MasterHead](https://res.cloudinary.com/highereducation/images/f_auto,q_auto/v1662131572/ComputerScience.org/programmer-coding-on-laptop_858160b59/programmer-coding-on-laptop_858160b59.jpg)](https://github.com/ASHISH-28-02)
-
-
-
-
-
-
-
-
-
-  
-
+<h1 align="center">Hello , I'm Ashish B</h1>
 
 
