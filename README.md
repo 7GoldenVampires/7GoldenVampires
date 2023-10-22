@@ -59,7 +59,7 @@
       <br>MongoDB
 </td>
  <td align="center" width="96">
- <img src="https://https://techstack-generator.vercel.app/restapi-icon.svg" alt="icon" width="40" height="40" />
+ <img src="https://techstack-generator.vercel.app/restapi-icon.svg" alt="icon" width="40" height="40" />
       <br>Rest
 </td>
  </tr>
