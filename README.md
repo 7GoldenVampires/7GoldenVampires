@@ -3,14 +3,14 @@
 
 
 <div>
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=6000&size=28&duration=5304&pause=1000&color36BCF7FF&background=FFD22800&center=true&vCenter=true&width=850&lines=Hello,+I'm+Said,+Welcome+to+My+Profile!+;I+am+a+Full+Stack+Developer+;Always+learning+new+things" alt="Typing SVG" /></a>
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=6000&size=28&duration=5304&pause=1000&color36BCF7FF&background=FFD22800&center=true&vCenter=true&width=850&lines=Hello,+I'm+Said,+Welcome+to+My+Profile!+;I+am+a+Frontend+Developer+;Always+learning+new+things" alt="Typing SVG" /></a>
 </div>
 
 
 <img align="right" alt="Coding" height="250" width="200" src="https://31.media.tumblr.com/4717a813263f471b0def42d70c835ad5/tumblr_mtw0ojDUCQ1ru39xmo1_500.gif">
 
 
-🍕 I'm not just an aspiring developer; I'm also a pizza addict! When I'm not coding, you'll likely find me savoring a slice of my favorite pizza.
+🍕 I'm not just an aspiring Developer; I'm also a pizza addict! When I'm not coding, you'll likely find me savoring a slice of my favorite pizza.
 
 ☕ I'm a coffee connoisseur. There's nothing like a good cup of coffee to fuel my coding sessions and keep me inspired.
 
@@ -51,12 +51,12 @@
       <br>React
  </td>
     <td align="center" width="96">
-<img src="https://skillicons.dev/icons?i=mongodb" width="40" height="40" alt="MongoDB" />
-      <br>MongoDB
+<img src="https://skillicons.dev/icons?i=vite" width="40" height="40" alt="Firebase" />
+      <br>Vite
 </td>
  <td align="center" width="96">
- <img src="https://techstack-generator.vercel.app/aws-icon.svg" alt="icon" width="40" height="40" />
-      <br>AWS
+ <img src="https://skillicons.dev/icons?i=firebase" alt="icon" width="40" height="40" />
+      <br>Firebase
 </td>
 <td align="center" width="96">  
 <img src="https://skillicons.dev/icons?i=vscode" width="40" height="40" alt="VsCode" />
@@ -70,12 +70,15 @@
        </table>
 </div>
 
-
+https://skillicons.dev/icons?i=firebase
 
 
   
 
 -----------------------------------------------------
+
+
+
 
 
 
