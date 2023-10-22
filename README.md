@@ -59,7 +59,7 @@
       <br>VsCode
  </td>
   <td align="center" width="96">
-<img src="https://skillicons.dev/icons?i=tailwind" />
+<img src="https://skillicons.dev/icons?i=tailwind" width="40" height="40" alt="Tailwind"/>
       <br>Tailwind
     </td>
     <td align="center" width="96">
@@ -71,11 +71,12 @@
 </div>
 
 
-    
+   
 
   
 
 -----------------------------------------------------
+
 
 
 
