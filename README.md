@@ -42,6 +42,10 @@
 <img src="https://skillicons.dev/icons?i=css" width="40" height="40" alt="css" />
       <br>CSS
   </td>
+  <td align="center" width="96">
+<img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/>
+      <br>Tailwind
+     </td>
 <td align="center" width="96">
 <img src="https://techstack-generator.vercel.app/react-icon.svg" alt="icon" width="40" height="40" />
       <br>React
@@ -58,11 +62,7 @@
 <img src="https://skillicons.dev/icons?i=vscode" width="40" height="40" alt="VsCode" />
       <br>VsCode
  </td>
-  <td align="center" width="96">
-<img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/>
-      <br>Tailwind
-    </td>
-    <td align="center" width="96">
+<td align="center" width="96">
       <img src="https://techstack-generator.vercel.app/github-icon.svg" alt="icon" width="40" height="40" />
       <br>Github
     </td>
