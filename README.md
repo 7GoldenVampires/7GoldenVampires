@@ -18,6 +18,10 @@
 
 🤝 I'm open to collaborating and contributing to innovative projects. Let's team up to build something awesome!
 
+<a href="https://mail.google.com/mail/u/0/?fs=1&tf=cm&to=krushnakantarout44@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail Badge"/>
+    </a>
+
 <br />
 
 ---
@@ -66,17 +70,8 @@
        </table>
 </div>
 
- <a href="https://twitter.com/Krushnarout_">
-    <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=Twitter&logoColor=white" alt="Twitter Badge"/>
-    </a>
-    <a href="https://mail.google.com/mail/u/0/?fs=1&tf=cm&to=krushnakantarout44@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail Badge"/>
-    </a>
-</div>
 
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=65&section=footer"/>
-</p>
+    
 
   
 
@@ -86,17 +81,4 @@
 
 
 
-
-
- <a href="https://twitter.com/Krushnarout_">
-    <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=Twitter&logoColor=white" alt="Twitter Badge"/>
-    </a>
-    <a href="https://mail.google.com/mail/u/0/?fs=1&tf=cm&to=krushnakantarout44@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail Badge"/>
-    </a>
-</div>
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=65&section=footer"/>
-</p>
 
