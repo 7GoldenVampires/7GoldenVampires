@@ -18,9 +18,6 @@
 
 🤝 I'm open to collaborating and contributing to innovative projects. Let's team up to build something awesome!
 
-<a href="https://mail.google.com/mail/u/0/?fs=1&tf=cm&to=krushnakantarout44@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail Badge"/>
-    </a>
 
 <br />
 
@@ -70,13 +67,22 @@
        </table>
 </div>
 
-https://skillicons.dev/icons?i=firebase
-
-
   
 
 -----------------------------------------------------
 
+### Interview
+> Here are valuable resources to help you excel in your web design interview. You'll find videos, articles, and more to aid your preparation.
+<table width="100%">
+      <tr>
+        <th>Resource Name</th>
+        <th>Description</th>
+      </tr>
+      <tr>
+      <td> <a  href="https://youtube.com/playlist?list=PL1wFSWLYg_Ia97VL4pv-Ovz9330HfZX_k&si=1cHzpetgv_-0uszp">Webdesign Interviews/Podcast</a></td>
+      <td>"Welcome to the 'Web Design Business Podcast Interviews' channel hosted by Josh. Josh draws from his over 10 years of experience as a freelance web designer to teach you how to create outstanding websites and establish a web design business that offers both freedom and a lifestyle you'll adore. On this channel, you'll find content covering the business aspects of web design, the tools Josh uses, video interviews from his podcast, and live stream Q&A sessions, with new videos typically posted 1-2 times a week.</td>
+      </tr>
+</table>
 
 
 
