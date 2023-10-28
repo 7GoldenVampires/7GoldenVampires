@@ -1,5 +1,4 @@
-![MasterHead](https://github.com/sd-indic/7goldenVampires/blob/main/New%20folder/j.gif?raw=true)
-[![An image of @nilsharjes's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/nharjes)](https://holopin.io/@nharjes)
+
 
 
 <div>
